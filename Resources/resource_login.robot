@@ -29,7 +29,7 @@ click login button
 click nav buton
 	Click Element       xpath://button[@id="react-burger-menu-btn"]
 
-cllick logout button
+cllick logout
 	Click Element    xpath://button[@id="logout_sidebar_link"]
 
 
