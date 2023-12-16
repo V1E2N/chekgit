@@ -22,7 +22,7 @@ Invalid Login
     Input Username  ${username}
     Input Password    ${password}
     Click Login Button
-    Invalid User And Password
+    Invalid User And Pass
 
 
 

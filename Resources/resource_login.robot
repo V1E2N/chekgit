@@ -33,7 +33,7 @@ cllick logout button
 	Click Element    xpath://button[@id="logout_sidebar_link"]
 
 
-Invalid user and password
+Invalid user and pass
 	Page Should Contain     Epic sadface: Username and password do not match any user in this service
 
 
